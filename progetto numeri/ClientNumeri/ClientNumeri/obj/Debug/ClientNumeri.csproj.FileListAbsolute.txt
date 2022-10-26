@@ -1,0 +1,11 @@
+C:\myFiles\scuola\Tep\progetto numeri\ClientNumeri\ClientNumeri\bin\Debug\ClientNumeri.exe.config
+C:\myFiles\scuola\Tep\progetto numeri\ClientNumeri\ClientNumeri\bin\Debug\ClientNumeri.exe
+C:\myFiles\scuola\Tep\progetto numeri\ClientNumeri\ClientNumeri\bin\Debug\ClientNumeri.pdb
+C:\myFiles\scuola\Tep\progetto numeri\ClientNumeri\ClientNumeri\obj\Debug\ClientNumeri.csproj.AssemblyReference.cache
+C:\myFiles\scuola\Tep\progetto numeri\ClientNumeri\ClientNumeri\obj\Debug\ClientNumeri.csproj.SuggestedBindingRedirects.cache
+C:\myFiles\scuola\Tep\progetto numeri\ClientNumeri\ClientNumeri\obj\Debug\ClientNumeri.Form1.resources
+C:\myFiles\scuola\Tep\progetto numeri\ClientNumeri\ClientNumeri\obj\Debug\ClientNumeri.Properties.Resources.resources
+C:\myFiles\scuola\Tep\progetto numeri\ClientNumeri\ClientNumeri\obj\Debug\ClientNumeri.csproj.GenerateResource.cache
+C:\myFiles\scuola\Tep\progetto numeri\ClientNumeri\ClientNumeri\obj\Debug\ClientNumeri.csproj.CoreCompileInputs.cache
+C:\myFiles\scuola\Tep\progetto numeri\ClientNumeri\ClientNumeri\obj\Debug\ClientNumeri.exe
+C:\myFiles\scuola\Tep\progetto numeri\ClientNumeri\ClientNumeri\obj\Debug\ClientNumeri.pdb
